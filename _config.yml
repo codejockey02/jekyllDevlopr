@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog is
 baseurl: "/jekyllDevlopr" # the subpath of your site, e.g. /blog
 url: "codejockey02.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+<link rel="stylesheet" href="{{ root_url }}/css/main.css">
 author_logo: profile.png
 disqus_shortname: Priyesh Saraswat  #for comments using disqus
 author: Priyesh Saraswat
