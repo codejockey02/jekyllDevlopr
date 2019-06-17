@@ -1,0 +1,22 @@
+title: Priyesh Saraswat
+subtitle: A Blog for developers
+description: >- # this means to ignore newlines until "baseurl:"
+  This blog is
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+author_logo: profile.png
+disqus_shortname: Priyesh Saraswat  #for comments using disqus
+author: Priyesh Saraswat
+author_bio: I am a third year CSE student interested in Server Side Development and UI designing. I stand by the ideology that not hardwork alone but determination along with focus is the key to success. I am not another sheep following the herd by pursuing engineering. It is my passion and I am willing to go to any extent to improve my skills and learn new things.
+author_email: "priyeshsaraswat9@gmail.com"
+author_location: India
+author_website_url: "https://yourwebsite.com"
+
+# social links
+twitter_username: __priyesh
+github_username:  codejockey02
+facebook_username: priyesh.saraswat.75
+linkedin_username: priyeshs2
+instagram_username: priyesh_saraswat
+medium_username: priyeshsaraswat9 
